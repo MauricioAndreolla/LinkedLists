@@ -1,5 +1,5 @@
 # LinkedLists (Conjunto de livros e-books de uma biblioteca)
-Trabalho estrutura de dados Estrura de dados UCS
+Trabalho estrutura de dados UCS
 ### 
 Uma biblioteca virtual tem um conjunto de livros virtuais, os e-books. De cada e-book
 são mantidas as seguintes informações: título, autor(es), ISBN, ano de edição, nome da
