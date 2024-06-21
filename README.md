@@ -1,5 +1,8 @@
 # LinkedLists (Conjunto de livros e-books de uma biblioteca)
-Trabalho estrutura de dados UCS
+### Trabalho estrutura de dados
+
+![App Console](https://github.com/MauricioAndreolla/LinkedLists/assets/44854911/b8cdfb30-96c9-47cf-affc-a0e97ce62ce8)
+
 ### 
 Uma biblioteca virtual tem um conjunto de livros virtuais, os e-books. De cada e-book
 são mantidas as seguintes informações: título, autor(es), ISBN, ano de edição, nome da
