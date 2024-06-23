@@ -1,5 +1,5 @@
-# LinkedLists (Conjunto de livros e-books de uma biblioteca)
-### Trabalho estrutura de dados
+# LinkedLists (Conjunto de livros e-books de uma biblioteca 📚)
+### Trabalho estrutura de dados 👨‍🚀
 
 ![App Console](https://github.com/MauricioAndreolla/LinkedLists/assets/44854911/b8cdfb30-96c9-47cf-affc-a0e97ce62ce8)
 
@@ -15,12 +15,12 @@ seguintes características:
 • Os títulos dos livros são mantidos em ordem alfabética, através do
 armazenamento dos livros em uma ABP
 
-### Estrutura Final
+### Estrutura Final 🙌
 
 ![image](https://github.com/MauricioAndreolla/LinkedLists/assets/44854911/8ed9ace6-75c5-43d2-9bef-640fc7aeb1bf)
 
 
-### Operações que foram implementadas
+### Operações que foram implementadas 🎯
 
 Operações básicas a serem implementadas:
 Pode haver variações nas entradas e saídas de dados das operações, os nomes e/ou os
@@ -53,3 +53,14 @@ alfabética, sem repetir nomes exatamente iguais (pode utilizar uma ABP temporá
 alfabética, sem repetir nomes exatamente iguais (pode utilizar uma ABP temporária);
 outras consultas, outras operações (você pode definir)
 }
+
+### Rodar localmente 💻
+
+Será necessário utilizar algum compilador para compilar para seu sistema operacional.
+
+Irei deixar duas sugestões de IDE's que possuem compiladores inclusos.
+
+### Dev-c++
+• https://bloodshed.net/
+### CodeBlocks
+• https://www.codeblocks.org/
